@@ -1,10 +1,5 @@
-# Sky Web EPG | Current Version: **`5.10`**
-A recreation of the classic EPG on the Sky Digiboxes and legacy Sky+ from 2005-2010. While we are only planning on basing this from the 
-latest Sky+ EPG version `5.08.6` (some elements will be reused from `3.8.8`), we have plans to make the 1998 and 2001 Digibox EPG menus too.
-![screenshot](Capture.PNG)
-
-## What channel listing is this based on?
-This is based on any real life channel listing provided by Sky. This is based on our web-based channel listing, the **OLDDIGIBOX NETWORK.**
+# Sky Web EPG 1998 | Current Version: **`5.10*`**
+A recreation of the classic EPG on the Sky Digiboxes from 1998-2000.
 
 # Sky Web EPG License
 ## Copyright © 2020 OldDigibox
