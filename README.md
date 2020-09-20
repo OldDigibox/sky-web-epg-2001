@@ -1,4 +1,4 @@
-# Sky Web EPG 1998 | Current Version: **`5.10w`**
+# Sky Web EPG 1998 | Current Version: **`5.10b`**
 A recreation of the classic EPG on the Sky Digiboxes from 1998-2000.
 
 # Sky Web EPG License
